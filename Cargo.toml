@@ -1,0 +1,10 @@
+[package]
+name = "audiostretch"
+version = "0.1.0"
+authors = ["BrandtM <marius.brandt@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+hound = "3.4"
+rustfft = "3.0"
+apodize = "1.0"
